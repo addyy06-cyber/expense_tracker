@@ -1,0 +1,32 @@
+{
+  "accounts": [
+    {
+      "name": "adrija",
+      "balance": 0
+    }
+  ],
+  "categories": [
+    "Groceries",
+    "Healthcare"
+  ],
+  "records": [
+    {
+      "id": 0,
+      "date": "2026-05-05",
+      "description": "Groceries expense",
+      "amount": 200.0,
+      "type": "Expense",
+      "account": "Family",
+      "category": "Groceries"
+    },
+    {
+      "id": 1,
+      "date": "2026-05-05",
+      "description": "haha",
+      "amount": 21.0,
+      "type": "Expense",
+      "account": "Family",
+      "category": "Healthcare"
+    }
+  ]
+}
